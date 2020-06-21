@@ -1,0 +1,5 @@
+insert into credit_card_details values('1234567898765432',10000.0,'2029/12/31',500000.0,'ABC','2020/01/25','100','credit-card-bill-payment-service','2020/01/30');
+insert into credit_card_details values('2468987654321456',12000.0,'2029/01/31',500000.0,'ABC','2020/01/26','pathak123','credit-card-bill-payment-service','2020/01/31');
+insert into credit_card_details values('3789654321147526',14000.0,'2025/12/31',500000.0,'ABC','2020/01/27','nitin5100','credit-card-bill-payment-service','2020/02/03');
+insert into credit_card_details values('4642135879421356',15000.0,'2029/12/30',500000.0,'ABC','2020/01/28','gopal1234','credit-card-bill-payment-service','2020/02/05');
+insert into credit_card_details values('5678912345678956',178000.0,'2029/12/31',500000.0,'ABC','2020/01/29','pathak512','credit-card-bill-payment-service','2020/02/06');
